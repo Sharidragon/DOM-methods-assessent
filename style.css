@@ -1,0 +1,7 @@
+img {
+    width: 300;
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
